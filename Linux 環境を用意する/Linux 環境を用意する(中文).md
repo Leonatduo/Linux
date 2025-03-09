@@ -1,23 +1,26 @@
-1.准备Linux环境
+# 1. 准备Linux环境
+
 首先，我们要准备一个Linux的系统，成本最低的方式就是在本地安装一台虚拟机。为了统一学习环境，不管是使用MacOS还是Windows系统，都建议安装一台虚拟机。
-windows采用VMware，Mac则采用Fusion
 
+- Windows采用VMware
+- Mac采用Fusion
 
+## 1.1 安装VMware
 
-1.1.安装VMware
-1.1.1.卸载旧版VMware（可选）
+### 1.1.1 卸载旧版VMware（可选）
+
 如果自己电脑上已经有了低版本的VMware，则需要先卸载，再重新安装。卸载过程比较麻烦。
 
 卸载完成后，还需要看看VMware的安装目录是否有旧数据，一并清理掉。
 
+### 1.1.2 安装VMware
 
-1.1.2.安装VMware
-windows版本的网站如下：
-https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html
+- Windows版本的网站如下：
+  [VMware Workstation Pro](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)
 
-Mac下也有对应版本，叫做VMware Fusion：
-https://www.vmware.com/cn/products/fusion.html
+- Mac下也有对应版本，叫做VMware Fusion：
+  [VMware Fusion](https://www.vmware.com/cn/products/fusion.html)
 
-1.2.创建虚拟机
+## 1.2 创建虚拟机
 
 Centos7是比较常用的一个Linux发行版本，使用比例还是比较高的。
