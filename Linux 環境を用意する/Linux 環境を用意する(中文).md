@@ -30,3 +30,7 @@ Centos7是比较常用的一个Linux发行版本，使用比例还是比较高�
 <img src="imgs\c.png" alt="c.png">
 <img src="imgs\d.png" alt="d.png">
 <img src="imgs\e.png" alt="e.png">
+<img src="imgs\e.png" alt="f.png">
+<img src="imgs\e.png" alt="g.png">
+<img src="imgs\e.png" alt="h.png">
+<img src="imgs\e.png" alt="i.png">
