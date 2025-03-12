@@ -21,7 +21,7 @@
 - Mac下也有对应版本，叫做VMware Fusion：
   [VMware Fusion](https://www.vmware.com/cn/products/fusion.html)
 
-## 1.2 创建虚拟机
+## 1.2 创建并安装虚拟机
 
 Centos7是比较常用的一个Linux发行版本，使用比例还是比较高的。
 
