@@ -23,7 +23,7 @@
 
 ## 1.2 创建并安装虚拟机
 
-Centos7是比较常用的一个Linux发行版本，使用比例还是比较高的。
+Centos7是比较常用的一个Linux发行版本，使用比例还是比较高的
 
 <img src="imgs\a.png" alt="a.png">
 <img src="imgs\b.png" alt="b.png">
